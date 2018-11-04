@@ -1,4 +1,4 @@
-This is the code for the paper "Depth of field guided reflection removal" accepted by ICIP 2016. If you use only parts of this code, please cite my paper. Thanks.
+This is the code for the paper "Depth of field guided reflection removal" accepted by ICIP 2016. If you use any parts of this code, please cite my paper. Thanks.
 Here is the bibtex as follows:
 
 @inproceedings{wan2016depth,
